@@ -19,8 +19,11 @@
 ### ✍️ Rᴀɴᴅᴏᴍ Dᴇᴠ Qᴜᴏᴛᴇ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mishel-Tg&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
 <p align="left">
 <b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
 </p>
