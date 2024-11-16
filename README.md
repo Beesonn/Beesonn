@@ -63,7 +63,7 @@ I'm a passionate **Full Stack Developer** with a love for crafting seamless web 
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07g&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&theme=dark&hide_border=true"/>
 </p>
 
 ### 🤝🏻 Connect with Me
