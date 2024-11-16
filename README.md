@@ -1,4 +1,4 @@
-# Hey 👋 there's iam Mishel
+# Hey 👋 There Iam Mishel
 
 
 ## 👨‍💻 About Me
