@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 I'm a passionate **Full Stack Developer** with a love for crafting seamless web applications. At 24, I’m eager to learn, grow, and contribute to exciting projects that make a difference.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -55,7 +55,7 @@ I'm a passionate **Full Stack Developer** with a love for crafting seamless web 
 
 <p align="center">
   <a href="https://github.com/Mishel-07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishel-07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishel-07&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Mishel-07">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mishel-07&layout=compact&langs_count=8&theme=black"/>
@@ -63,7 +63,7 @@ I'm a passionate **Full Stack Developer** with a love for crafting seamless web 
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&theme=black&hide_border=true"/>
 </p>
 
 ### 🤝🏻 Connect with Me
