@@ -55,15 +55,15 @@ I'm a passionate **Full Stack Developer** with a love for crafting seamless web 
 
 <p align="center">
   <a href="https://github.com/Mishel-07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishel-07&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishel-07&show_icons=true&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Mishel-07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mishel-07&layout=compact&langs_count=8&theme=lol"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mishel-07&layout=compact&langs_count=8"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&theme=black&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&hide_border=true"/>
 </p>
 
 ### 🤝🏻 Connect with Me
