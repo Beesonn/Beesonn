@@ -1,4 +1,7 @@
-# Hey 👋 There Iam Mishel
+<h1> Hey 👋 There Iam Mishel! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
 
 ## 👨‍💻 About Me
 >I'm a passionate **Full Stack Developer** with a love for crafting seamless web applications. At 24, I’m eager to learn, grow, and contribute to exciting projects that make a difference.
