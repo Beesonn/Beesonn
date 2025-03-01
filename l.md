@@ -13,7 +13,7 @@
 ### 🛠 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,javascript,dart,java,c,cpp,bootstrap,html,css,kafka,spring,vue,swagger,postman,gcp,figma,markdown,flutter,flask,redis,mongodb,postgres,elasticsearch,git,github,vscode,eclipse,brave,jenkins,slack,bitbucket,confluence,jira,notion,adobe,canva,maven,splunk,sonarlint,peer" alt="Tech Stack & Tools" />
+  <img src="https://skillicons.dev/icons?i=python,go,javascript,dart,java,c,cpp,bootstrap,html,css,kafka,spring,vue,swagger,postman,gcp,figma,markdown,flutter,flask,redis,mongodb,postgres,elasticsearch,git,github,vscode,eclipse,brave,jenkins,slack,bitbucket,confluence,jira,notion,adobe,canva,maven&peerline=10" alt="Tech Stack & Tools" />
 </div>
 
 ### ⚙️ GitHub Analytics
