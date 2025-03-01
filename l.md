@@ -14,18 +14,10 @@
 
 <br>
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Databases
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,javascript,dart,java,c,cpp,bootstrap,html,css,kafka,spring,vue,swagger,postman,gcp,figma,markdown" alt="Tech Stack" />
-</div>
-
-<br>
-
-### 🗃 Databases
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=redis,mongodb,postgres,elasticsearch" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=python,go,javascript,dart,java,c,cpp,bootstrap,html,css,kafka,spring,vue,swagger,postman,gcp,figma,markdown,flutter,flask,redis,mongodb,postgres,elasticsearch" alt="Tech Stack & Databases" />
 </div>
 
 <br>
