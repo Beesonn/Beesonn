@@ -5,42 +5,28 @@
   </a>
 </p>
 
-<br>
-
 ## 👨‍💻 About Me
 <p align="center" style="font-size: 0.8em;">
   I'm a passionate <strong>Full Stack Developer</strong> with a love for crafting seamless web applications. At 24, I’m eager to learn, grow, and contribute to exciting projects that make a difference.
 </p>
 
-<br>
-
-### 🛠 Tech Stack & Databases
+### 🛠 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,javascript,dart,java,c,cpp,bootstrap,html,css,kafka,spring,vue,swagger,postman,gcp,figma,markdown,flutter,flask,redis,mongodb,postgres,elasticsearch" alt="Tech Stack & Databases" />
+  <img src="https://skillicons.dev/icons?i=python,go,javascript,dart,java,c,cpp,bootstrap,html,css,kafka,spring,vue,swagger,postman,gcp,figma,markdown,flutter,flask,redis,mongodb,postgres,elasticsearch,git,github,vscode,eclipse,brave,jenkins,slack,bitbucket,confluence,jira,notion,adobe,canva,maven,splunk,sonarlint" alt="Tech Stack & Tools" />
 </div>
-
-<br>
-
-### 🧰 Version Control & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,brave,jenkins,slack,bitbucket,confluence,jira,notion,adobe,canva,maven,splunk,sonarlint" alt="Tools" />
-</div>
-
-<br>
 
 ### ⚙️ GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Mishel-07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishel-07&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishel-07&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Mishel-07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mishel-07&layout=compact&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mishel-07&layout=compact&langs_count=8&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&theme=radical&hide_border=true" />
 </p>
