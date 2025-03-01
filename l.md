@@ -5,10 +5,14 @@
   </a>
 </p>
 
+<br>
+
 ## 👨‍💻 About Me
 <p align="center" style="font-size: 0.8em;">
   I'm a passionate <strong>Full Stack Developer</strong> with a love for crafting seamless web applications. At 24, I’m eager to learn, grow, and contribute to exciting projects that make a difference.
 </p>
+
+<br>
 
 ### 🛠 Tech Stack
 
@@ -16,17 +20,23 @@
   <img src="https://skillicons.dev/icons?i=python,go,javascript,dart,java,c,cpp,bootstrap,html,css,kafka,spring,vue,swagger,postman,gcp,figma,markdown" alt="Tech Stack" />
 </div>
 
+<br>
+
 ### 🗃 Databases
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=redis,mongodb,postgres,elasticsearch" alt="Databases" />
 </div>
 
+<br>
+
 ### 🧰 Version Control & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,brave,jenkins,slack,bitbucket,confluence,jira,notion,adobe,canva,maven,splunk,sonarlint" alt="Tools" />
 </div>
+
+<br>
 
 ### ⚙️ GitHub Analytics
 
