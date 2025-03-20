@@ -1,20 +1,21 @@
 <h1 align="center"> Yo, I’m Mishal! <img src="https://raw.githubusercontent.com/Mishel-07/Mishel-07/main/hand.gif" width="35px" alt="wave"> </h1> 
 <p align="center">
   <a href="https://github.com/Mishel-07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=800&color=00FFFF¢er=true&vCenter=true&width=450&lines=Full+Stack+Wizard;Code+Alchemist;Tech+Trailblazer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=800&color=00FFFF¢er=true&vCenter=true&width=450&lines=Full+Stack+Wizard;Code+Alchemist;Tech+Trailblazer;Eagle+of+Innovation" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="150" alt="coding vibes">
+  <img src="https://media.giphy.com/media/l0HlMnVyz255b5p5K/giphy.gif" width="150" alt="eagle soaring">
 </p>
 
 ## 🚀 Who Am I?
-I’m a 24-year-old **Full Stack Developer** obsessed with building slick, high-performance web apps. I live for clean code, killer designs, and projects that push boundaries. Let’s craft something epic together!
+I’m a 24-year-old **Full Stack Developer**, soaring through the digital skies like an eagle—sharp, bold, and unstoppable. I thrive on crafting high-performance web apps, solving complex problems, and pushing tech to new heights. Ready to dominate the codebase? Let’s fly!
 
 ---
 
-## 🛠 My Arsenal
+## 🦅 Eagle of Code: My Arsenal
 
 ### 💻 Languages & Frameworks
 <p align="left">
@@ -56,27 +57,45 @@ I’m a 24-year-old **Full Stack Developer** obsessed with building slick, high-
 
 ---
 
-## 📊 GitHub Stats That Slap
+## 📊 GitHub Stats: Eagle’s Flight Log
 <p align="center">
   <a href="https://github.com/Mishel-07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishel-07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishel-07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&custom_title=Code+Conquest+Stats" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Mishel-07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mishel-07&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mishel-07&layout=compact&langs_count=10&theme=radical&border_radius=15&custom_title=Top+Flight+Languages" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&theme=highcontrast&hide_border=true" alt="Streak Stats" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&theme=highcontrast&hide_border=true&border_radius=15&card_width=500&custom_title=Eagle’s+Streak+Altitude" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mishel-07">
+    <img height="200em" src="https://github-profile-trophy.vercel.app/?username=Mishel-07&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mishel-07&theme=monokai" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishel-07&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 🌌 What’s Next?
-I’m always hunting for the next big challenge—hit me up if you’ve got a wild idea or a collab in mind. Let’s build something that breaks the internet!
+## 🌌 Eagle’s Next Mission
+I’m soaring toward the next big challenge—got a wild idea or a collab that needs wings? Let’s build something legendary and rule the digital skies!
 
 <p align="center">
   <a href="https://github.com/Mishel-07">
-    <img src="https://img.shields.io/badge/Let’s_Connect-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Connect" />
+    <img src="https://img.shields.io/badge/Join_My_Flight-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Connect" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ozw0g2kMPruiBws/giphy.gif" width="200" alt="eagle landing">
 </p>
