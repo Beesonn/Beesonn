@@ -1,6 +1,6 @@
-<h1 align="center"> Hey There, I'm Mishal <img src="https://raw.githubusercontent.com/Mishel-07/Mishel-07/main/hand.gif" width="30px"> </h1> 
+<h1 align="center"> Hey There, I'm Beeson <img src="https://raw.githubusercontent.com/Mishel-07/Mishel-07/main/hand.gif" width="30px"> </h1> 
 <p align="center">
-  <a href="https://github.com/Mishel-07">
+  <a href="https://github.com/Beesonn">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
@@ -60,14 +60,14 @@ I'm a passionate **Full Stack Developer** with a love for crafting seamless web 
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Mishel-07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mishel-07&show_icons=true&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Beesonn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Beesonn&show_icons=true&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Mishel-07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mishel-07&layout=compact&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Beesonn&layout=compact&langs_count=8"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishel-07&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Beesonn&hide_border=true"/>
 </p>
